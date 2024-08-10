@@ -25,11 +25,24 @@ body {
     width: 45%; /* Adjust width as needed */
     height: auto;
 }
+.image-container1 {
+    display: flex;
+    justify-content: space-between; /* Adjusts the spacing between images */
+}
 
 .img1, .img2, .img3, .img4,.img5,.img6, .img7, .img8, .img10, .img9 {
     position: absolute;
     border-radius: 3px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.img{
+    width: 481px; /* Adjust width as needed */
+    height: 351px; /* Maintains aspect ratio */
+}
+.imgd{
+    width: 1115px; /* Adjust width as needed */
+    height: 713px; /* Maintains aspect ratio */
 }
 
 /* Top landscape image */
