@@ -40,10 +40,6 @@ body {
     width: 481px; /* Adjust width as needed */
     height: 351px; /* Maintains aspect ratio */
 }
-.imgd{
-    width: 1115px; /* Adjust width as needed */
-    height: 713px; /* Maintains aspect ratio */
-}
 
 /* Top landscape image */
 .img1 {
@@ -84,14 +80,14 @@ body {
     z-index: 1;
     width: 397px;
     height: 377px;
-    top: 1000px;
+    top: 940px;
     left: 755px;
 }
 .img6 {
     z-index: 2;
     width: 397px;
     height: 377px;
-    top: 1020px;
+    top: 960px;
     left: 775px;
 }
 
@@ -99,7 +95,7 @@ body {
     z-index: 1;
     width: 448px; /* Adjust width to fit container */
     height: 347px; /* Maintain aspect ratio */
-    top: 55px;
+    top: 30px;
     left:0px;
 }
 
@@ -108,7 +104,7 @@ body {
     z-index: 2;
     width: 445px;
     height: 358px;
-    top: 72px;
+    top: 52px;
     left: 20px;
 }
 
